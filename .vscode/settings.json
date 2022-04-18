@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "pointerupdate.h": "c",
+        "typeinfo": "c"
+    }
+}
